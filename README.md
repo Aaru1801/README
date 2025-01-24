@@ -6,6 +6,10 @@
 
 <hr/>
 
+<div align="center">
+    <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif?cid=790b7611pmsze2a4oqogkgemjg08kf4dx1iarwrj65v3mt36&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" />
+</div>
+
 <br/>
 
 <div align="center">
